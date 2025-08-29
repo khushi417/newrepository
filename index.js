@@ -5,7 +5,7 @@ const express = require('express')
 const app = express()
 const githubdata=
 {
-  "name": "Khushi Jain",
+  "name": "Khushi",
   "age": 21,
   "isStudent": true,
   "skills": ["C++", "Python", "React", "Django"],
